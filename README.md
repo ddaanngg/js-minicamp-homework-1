@@ -5,10 +5,15 @@
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
 	* Variables
+		Variables are containers for differing types of data, whether it is a number, string, array, or boolean value.
 	* Strings
+		Strings are textual-based data. They hold no value that can be manipulated like numbers can. Though they can hold alphanumerical information. What you see is what you get with strings.
 	* Functions (arguments, `return`)
+		Functions are sub-programs that can be provided with an input (argument) and will provide an output (return) based on its internal code. Think like a black box.
 	* `if` statements
+		If statements are used as a way for code to repeat itself. They typically start with a provided condition and will end when its code has been completed.
 	* Boolean values (`true`, `false`)
+		Boolean values are binary conditions. When a value is boolean, it must be either 'true' or 'false'. There are no other boolean values available.
 
 
 2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
